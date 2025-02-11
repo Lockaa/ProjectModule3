@@ -7,7 +7,7 @@
 # Assignment:
     Create a simple To-Do list application using React.
     Add functionality to add, mark as complete, and delete tasks.
-    Store the tasks in the component’s state.
+    Store the tasks in the component's state.
     Use useState and useEffect hooks in your application.
 
 # Record Log:
@@ -19,3 +19,15 @@
     turns out react didn't install correctly, so I have to do it again          13:30 - 15:30
     have React all set up, just need to actually fill it now                    15:30
     
+    2/11/2025:
+    I messed up some branch, so I need to delete and undelete it                14:00 - 14:30
+    okay so, it turns out making the react app, just makes the 'server' folder 
+    (what I named my react app) be a remote, linked to my 'module3' folder.
+    so you can't view the contents of 'server' from github. but it still works?
+
+    So I'm back to where I was earlier, yesterday great :/                      14:40
+
+
+
+# Challenges:
+    setting up React was weird, and counterintuative, I know it shouldn't be this hard, and I'm likely misunderstanding something
