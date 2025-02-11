@@ -30,7 +30,10 @@
     working on the App.js file                                                  14:40 - 16:00
     I have something, it's rough, and looks bad, likely gonna change it later.
 
-    
+    so, I broke it up into different files, and it boots correctly now          16:00 - 17:30
+    working on functionality (add, edit, and delete)                            18:00 - 19:00
+
+
 
 # Challenges:
     setting up React was weird, and counterintuative, I know it shouldn't be this hard, and I'm likely misunderstanding something
