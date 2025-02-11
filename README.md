@@ -27,7 +27,10 @@
 
     So I'm back to where I was earlier, yesterday great :/                      14:40
 
+    working on the App.js file                                                  14:40 - 16:00
+    I have something, it's rough, and looks bad, likely gonna change it later.
 
+    
 
 # Challenges:
     setting up React was weird, and counterintuative, I know it shouldn't be this hard, and I'm likely misunderstanding something
