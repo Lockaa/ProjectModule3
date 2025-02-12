@@ -34,6 +34,13 @@
     working on functionality (add, edit, and delete)                            18:00 - 19:00
 
 
+    2/12/2025:
+    finally fixed it, I have it working                                         10:00 - 12:20
+    
+
+
 
 # Challenges:
     setting up React was weird, and counterintuative, I know it shouldn't be this hard, and I'm likely misunderstanding something
+
+    I had to sort of, follow a bunch of online walkthroughs on how to do this, and I also had to forcable load an objet into the tasklist for it to function
